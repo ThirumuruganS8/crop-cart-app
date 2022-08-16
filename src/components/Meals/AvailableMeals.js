@@ -4,27 +4,39 @@ import MealItem from './MealItem/MealItem';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
-    price: 22.99,
+    name: 'Paracetemol',
+    description: 'A strip of 10 tablets',
+    price: 100,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
-    price: 16.5,
+    name: 'Bandages',
+    description: 'One box',
+    price: 75,
   },
   {
     id: 'm3',
-    name: 'Barbecue Burger',
-    description: 'American, raw, meaty',
-    price: 12.99,
+    name: 'Acetomenophen',
+    description: 'A Strip of 10 Pills',
+    price: 80,
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
-    price: 18.99,
+    name: 'Mask',
+    description: 'A box of 25 pieces',
+    price: 200,
+  },
+  {
+    id: 'm5',
+    name: 'Cough Syrup',
+    description: 'A bottle',
+    price: 150,
+  },
+  {
+    id: 'm6',
+    name: 'Horlics',
+    description: 'A box ',
+    price: 300,
   },
 ];
 
